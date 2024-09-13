@@ -31,4 +31,4 @@ const ProductCard = ({ product, addToCart }) => {
   );
 };
 
-export default ProductCard;
+export default ProductCard
